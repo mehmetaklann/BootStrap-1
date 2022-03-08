@@ -1,0 +1,41 @@
+
+body {
+    background-color:  #E9ECEF;
+}
+/**************************** Anasayfa *******************************/
+#brand {
+    color: red;
+}
+
+.home-h1 {
+    color: red;
+}
+
+.home-h4 { 
+    color: #d6a724;
+}
+/************************* Hakkımızda *******************************/
+.about-us-h1 {
+    color: #6a1b9a;
+}
+
+.about-us-h4 {
+    color:#d6a724;
+}
+/*********************** Ürünler *******************************/
+.price {
+    color: white;
+    background-color: black;
+    width: 100px;
+    text-align: center;
+    margin: auto;
+    border-radius: 30px;
+}
+.price :hover {
+    text-decoration: underline;
+    background-color: greenyellow;
+    border-radius: 30px;
+}
+.product-card{
+    height: 700px;
+}
